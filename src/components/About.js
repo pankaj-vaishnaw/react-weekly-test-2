@@ -14,15 +14,15 @@ const About = () => {
     <div className="main">
         <RightSidebar/>
         <div className="right-part">
-            {/* navbar */}
+         
             <Navbar/>
-            {/* next about us */}
+          
            <Primaryfocus/>
-            {/* exporer creativiti section */}
+         
            <Exploringcreativity1/>
-            {/* programmimg section */}
+         
            <Content/>
-            {/* favorite activity */}
+         
 
            <Exploringcreativity2/>
         </div>
